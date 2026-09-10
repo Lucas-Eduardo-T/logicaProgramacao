@@ -1,4 +1,4 @@
-package exercicios.mensagemTela;
+package exercicios.bNumeroInformado;
 
 import java.util.Scanner;
 
